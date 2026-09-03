@@ -1,0 +1,12 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "addin",
+    "author": "Your Name",
+    "description": {
+        "": "Skala scales the active viewport so that model geometry appears at true 1:1 physical size on screen."
+    },
+    "version": "1.0.0",
+    "runOnStartup": false,
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}
